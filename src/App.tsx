@@ -58,7 +58,7 @@ const products: Product[] = [
     location: "สุรินทร์",
     price: 85,
     originalPrice: 120,
-    image: "https://images.pexels.com/photos/33239/rice-terrace-vietnam-agriculture.jpg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5ya6dSLEhy6Toh0FgxToMCo1wtsEEc9WPmyG0B3ZppdeJOkG3xn.jpg",
     category: "ข้าว",
     quality: "พรีเมียม",
     defectDescription: "เมล็ดข้าวขนาดไม่สม่ำเสมอ คุณค่าทางโภชนาการสูง",
