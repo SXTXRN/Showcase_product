@@ -229,7 +229,7 @@ function App() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: '#F5F5DC' }}>
       {/* Header */}
-      <header className="bg-white/95 backdrop-blur-md shadow-lg sticky top-0 z-40 border-b border-gray-200">
+      <header className="shadow-lg sticky top-0 z-40 border-b border-green-600" style={{ backgroundColor: '#4CAF50' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-3">
@@ -241,21 +241,21 @@ function App() {
                 />
               </div>
               <div>
-                <h1 className="text-xl font-bold" style={{ color: '#2E7D32' }}>Farm2Hand</h1>
-                <p className="text-xs" style={{ color: '#616161' }}>จากฟาร์มสู่มือคุณ</p>
+                <h1 className="text-xl font-bold text-white">Farm2Hand</h1>
+                <p className="text-xs text-green-100">จากฟาร์มสู่มือคุณ</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
               <div className="hidden md:flex items-center space-x-6 text-sm">
-                <div className="flex items-center space-x-1" style={{ color: '#4CAF50' }}>
+                <div className="flex items-center space-x-1 text-white">
                   <Users className="h-4 w-4" />
                   <span>500+ เกษตรกร</span>
                 </div>
-                <div className="flex items-center space-x-1" style={{ color: '#FFA726' }}>
+                <div className="flex items-center space-x-1 text-white">
                   <Truck className="h-4 w-4" />
                   <span>จัดส่งฟรี</span>
                 </div>
-                <div className="flex items-center space-x-1" style={{ color: '#8D6E63' }}>
+                <div className="flex items-center space-x-1 text-white">
                   <Shield className="h-4 w-4" />
                   <span>รับประกันคุณภาพ</span>
                 </div>
