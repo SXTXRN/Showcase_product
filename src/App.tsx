@@ -269,7 +269,7 @@ function App() {
       <section 
         className="relative text-white py-20"
         style={{ 
-          background: `#F5F5DC` 
+          background: `linear-gradient(135deg, #4CAF50 0%, #2E7D32 100%)` 
         }}
       >
         <div className="absolute inset-0 bg-black/20"></div>
