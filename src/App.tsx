@@ -123,7 +123,7 @@ const products: Product[] = [
     location: "นครชัยศรี",
     price: 150,
     originalPrice: 200,
-    image: "https://images.pexels.com/photos/1002703/pexels-photo-1002703.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://www.dailynews.co.th/wp-content/uploads/2022/09/S__44810642-1024x577.jpg",
     category: "สินค้านอกฤดูกาล",
     quality: "เกรด A",
     defectDescription: "ผิวไม่เรียบเนียน เนื้อหวานฉ่ำ รสชาติเข้มข้น",
