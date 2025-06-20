@@ -84,7 +84,7 @@ const products: Product[] = [
     location: "นครปฐม",
     price: 95,
     originalPrice: 140,
-    image: "https://images.pexels.com/photos/1409999/pexels-photo-1409999.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://image.makewebeasy.net/makeweb/0/30weRx59w/fruit/Food_Beverage_%E0%B9%91%E0%B9%99%E0%B9%90%E0%B9%97%E0%B9%92%E0%B9%90_0035_0.jpg",
     category: "ผลไม้",
     quality: "พรีเมียม",
     defectDescription: "สีผิวไม่สม่ำเสมอ เนื้อหวานฉ่ำน้ำ",
