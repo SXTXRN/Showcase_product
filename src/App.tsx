@@ -97,7 +97,7 @@ const products: Product[] = [
     location: "เพชรบุรี",
     price: 25,
     originalPrice: 40,
-    image: "https://images.pexels.com/photos/1656663/pexels-photo-1656663.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "https://mthai.com/app/uploads/2019/01/Chinese-Cabbage.jpg",
     category: "ผักสด",
     quality: "เกรด A",
     defectDescription: "ใบด้านนอกมีรอยกัด สดใหม่ ปลอดสารพิษ",
