@@ -118,7 +118,7 @@ const products: Product[] = [
   },
   {
     id: 7,
-    name: "ส้มโอขาวน้ำหวาน",
+    name: "ส้มโอขาว",
     farmer: "สวนส้มโอนครชัยศรี",
     location: "นครชัยศรี",
     price: 150,
