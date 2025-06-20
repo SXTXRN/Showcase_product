@@ -267,29 +267,28 @@ function App() {
 
       {/* Hero Section */}
       <section 
-        className="relative text-white py-20"
+        className="relative py-20"
         style={{ 
-          background: `#f5f5dc 10%` 
+          backgroundColor: '#F5F5DC' 
         }}
       >
-        <div className="absolute inset-0 bg-black/20"></div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-6xl font-bold mb-6">
+          <h2 className="text-4xl md:text-6xl font-bold mb-6" style={{ color: '#2E7D32' }}>
             ผลิตภัณฑ์เกษตร<span style={{ color: '#FFEB3B' }}>คุณภาพพรีเมียม</span>
           </h2>
-          <p className="text-xl md:text-2xl mb-8 text-green-100">
+          <p className="text-xl md:text-2xl mb-8" style={{ color: '#4CAF50' }}>
             จากฟาร์มสู่มือคุณโดยตรง ไม่ผ่านพ่อค้าคนกลาง
           </p>
           <div className="flex flex-wrap justify-center gap-4 text-lg">
-            <div className="flex items-center space-x-2 bg-white/20 px-4 py-2 rounded-full">
+            <div className="flex items-center space-x-2 px-4 py-2 rounded-full" style={{ backgroundColor: 'rgba(76, 175, 80, 0.2)', color: '#2E7D32' }}>
               <CheckCircle className="h-5 w-5" />
               <span>คุณภาพเยี่ยม</span>
             </div>
-            <div className="flex items-center space-x-2 bg-white/20 px-4 py-2 rounded-full">
+            <div className="flex items-center space-x-2 px-4 py-2 rounded-full" style={{ backgroundColor: 'rgba(76, 175, 80, 0.2)', color: '#2E7D32' }}>
               <CheckCircle className="h-5 w-5" />
               <span>ราคาเป็นธรรม</span>
             </div>
-            <div className="flex items-center space-x-2 bg-white/20 px-4 py-2 rounded-full">
+            <div className="flex items-center space-x-2 px-4 py-2 rounded-full" style={{ backgroundColor: 'rgba(76, 175, 80, 0.2)', color: '#2E7D32' }}>
               <CheckCircle className="h-5 w-5" />
               <span>สดใหม่ทุกวัน</span>
             </div>
